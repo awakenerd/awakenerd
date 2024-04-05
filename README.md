@@ -1,4 +1,4 @@
-- 👋 Hi, I’m the webmastter behind awakenerd.com.
+- 👋 Hi, I’m the webmaster behind awakenerd.com.
 - 👀 I’m interested in coding, open source, content creation and self improvement.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on open source projects.
